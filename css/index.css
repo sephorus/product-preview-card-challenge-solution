@@ -144,6 +144,8 @@ body {
     .preview-card-image {
         border-bottom-left-radius: 0;
         border-top-right-radius: 10px;
+        max-height: 200px;
+        width: 100%;
     }
 
     .subheading {
